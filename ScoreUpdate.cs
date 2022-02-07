@@ -18,7 +18,7 @@ public class ScoreUpdate : MonoBehaviour
     public string userphonenumber;
     public float userscore;
 
-    private Regex emailregex = new Regex(@"^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}");
+    //private Regex emailregex = new Regex(@"^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}");
 
     // Start is called before the first frame update
     void Start()
